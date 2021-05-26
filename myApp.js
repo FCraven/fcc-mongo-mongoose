@@ -12,7 +12,7 @@ const arrayOfPeople = [
     name: 'Francis',
     age: 3,
     favoriteFoods: ['milk','fruit','ice cream']
-  }
+  },
   {
     name: 'Ronin',
     age: 1,
